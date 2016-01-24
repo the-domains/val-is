@@ -1,0 +1,28 @@
+name: val.is
+favicon: null
+layout_spectrum: 0.7434355530422181
+typography_spectrum: 0.6317538360599428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07241892232559621
+  lightness: 0.4741541859693825
+  saturation: 0.19259442226029932
+  rhythmicContrast: 0.1680496777407825
+purpose: []
